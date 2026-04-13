@@ -23,6 +23,7 @@ public class Toggle {
 	}
 	
 	public void toggleSwitch() throws InterruptedException {
+		
 		WebDriverWait waitt = new WebDriverWait(driver, Duration.ofSeconds(10));
 		waitt.until(ExpectedConditions.presenceOfElementLocated(booknow));
 		driver.findElement(toolsicon).click();
@@ -37,12 +38,16 @@ public class Toggle {
 		Thread.sleep(3000);
 		driver.findElement(universityInstitute).click();
 		Thread.sleep(4000);
-		logger.info(" tools page actions");
+		logger.info("tools page actions");
+		
 		//Click the toggle Functionality 
+		
 		driver.findElement(tottleSwitchTo).click();
 		Thread.sleep(4000);
 		logger.info("click the toggle functionality");
+		
 		//Switch TO NEET-PG
+		
 		driver.findElement(neetpg).click();
 		Thread.sleep(4000);
 		logger.info("Switch To NEET-PG");
@@ -65,15 +70,18 @@ public class Toggle {
 		
 		Thread.sleep(3000);
 		logger.info("Pg All tools Action");
+		
 		//Switch To NEET-UG
+		
 		driver.findElement(tottleSwitchTo).click();
 		Thread.sleep(3000);
 		logger.info("Click the Toggle button");
 		driver.findElement(neetug).click();
 		Thread.sleep(5000);
 		logger.info("click the neetug button");
-        
+		
         //Again action on tools page
+		
 		driver.findElement(toolsicon).click();
 		Thread.sleep(3000);
 		driver.findElement(seatMatrix).click();
