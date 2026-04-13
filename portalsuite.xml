@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Portal Hellomentor">
+	<test name="selected method run">
+		<classes>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="DashboardTestCases"/>
+				</methods>
+			</class>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<include name="toolsTestCases"/>
+				</methods>
+			</class>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="feeAndSeatMatrix"/>
+				</methods>
+			</class>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="CollegeRanking"/>
+				</methods>
+			</class>
+			
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="collegeCompareTest" />
+				</methods>
+			</class>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="counsellingState"/>
+				</methods>
+			</class>
+			<class name="com.testexecution.test.PortalPage">
+				<methods>
+					<exclude name="universityinsti"/>
+				</methods>
+			</class>
+
+		</classes>
+	</test>
+</suite> <!--
+Suite -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HellomentorAi]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Run Selected Method(failed)">
+    <classes>
+      <class name="com.testexecution.test.TestCasesAi">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ts002"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testexecution.test.TestCasesAi -->
+    </classes>
+  </test> <!-- Run Selected Method(failed) -->
+</suite> <!-- Failed suite [HellomentorAi] -->

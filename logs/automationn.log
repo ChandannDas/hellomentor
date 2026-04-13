@@ -1,0 +1,34 @@
+2026-03-31 18:02:50 INFO  BaseTestPortal - successfully login
+2026-03-31 18:02:50 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-03-31 18:02:50 INFO  BaseTestPortal - Waiting for verify button
+2026-03-31 18:03:11 INFO  BaseTestPortal - Clicking verify button
+2026-03-31 18:04:29 INFO  BaseTestPortal - Waiting for dashboard (book now)
+2026-03-31 18:04:29 INFO  BaseTestPortal - successfully otp verified
+2026-03-31 18:05:20 INFO  BaseTestPortal -  tools page actions
+2026-03-31 18:05:28 INFO  BaseTestPortal - click the toggle functionality
+2026-03-31 18:05:38 INFO  BaseTestPortal - Switch To NEET-PG
+2026-03-31 18:07:57 INFO  BaseTestPortal - Pg All tools Action
+2026-03-31 18:08:07 INFO  BaseTestPortal - Click the Toggle button
+2026-03-31 18:08:19 INFO  BaseTestPortal - click the neetug button
+2026-03-31 18:10:56 INFO  BaseTestPortal - again tools action in neet ug page
+2026-03-31 18:11:17 INFO  BaseTestPortal - angin switch to Pg
+2026-04-01 10:39:41 INFO  BaseTestPortal - successfully login
+2026-04-01 10:39:41 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-01 10:39:41 INFO  BaseTestPortal - Waiting for verify button
+2026-04-01 10:39:59 INFO  BaseTestPortal - Clicking verify button
+2026-04-01 10:40:57 INFO  BaseTestPortal - successfully login
+2026-04-01 10:40:57 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-01 10:40:57 INFO  BaseTestPortal - Waiting for verify button
+2026-04-01 10:41:16 INFO  BaseTestPortal - Clicking verify button
+2026-04-01 10:42:34 INFO  BaseTestPortal - Waiting for dashboard (book now)
+2026-04-01 10:42:34 INFO  BaseTestPortal - successfully otp verified
+2026-04-01 10:51:14 INFO  BaseTestPortal - successfully login
+2026-04-01 10:51:14 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-01 10:51:14 INFO  BaseTestPortal - Waiting for verify button
+2026-04-01 10:51:33 INFO  BaseTestPortal - Clicking verify button
+2026-04-01 10:52:36 INFO  BaseTestPortal - successfully login
+2026-04-01 10:52:36 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-01 10:52:36 INFO  BaseTestPortal - Waiting for verify button
+2026-04-01 10:52:55 INFO  BaseTestPortal - Clicking verify button
+2026-04-01 10:54:17 INFO  BaseTestPortal - Waiting for dashboard (book now)
+2026-04-01 10:54:17 INFO  BaseTestPortal - successfully otp verified

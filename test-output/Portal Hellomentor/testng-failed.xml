@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Portal Hellomentor]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="selected method run(failed)">
+    <classes>
+      <class name="com.testexecution.test.PortalPage">
+        <methods>
+          <include name="setupp"/>
+          <include name="universityinsti"/>
+        </methods>
+      </class> <!-- com.testexecution.test.PortalPage -->
+    </classes>
+  </test> <!-- selected method run(failed) -->
+</suite> <!-- Failed suite [Portal Hellomentor] -->

@@ -1,0 +1,18 @@
+2026-04-09 12:18:07 INFO  BaseTestPortal - successfully login
+2026-04-09 12:18:07 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-09 12:18:07 INFO  BaseTestPortal - Waiting for verify button
+2026-04-09 12:18:26 INFO  BaseTestPortal - Clicking verify button
+2026-04-09 12:19:56 INFO  BaseTestPortal - Waiting for dashboard (book now)
+2026-04-09 12:19:56 INFO  BaseTestPortal - successfully otp verified
+2026-04-09 12:21:48 INFO  BaseTestPortal - successfully login
+2026-04-09 12:21:48 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-09 12:21:48 INFO  BaseTestPortal - Waiting for verify button
+2026-04-09 12:22:07 INFO  BaseTestPortal - Clicking verify button
+2026-04-09 12:23:31 INFO  BaseTestPortal - Waiting for dashboard (book now)
+2026-04-09 12:23:31 INFO  BaseTestPortal - successfully otp verified 
+2026-04-09 12:25:21 INFO  BaseTestPortal - based on rank college filtered successfully
+2026-04-09 12:26:12 INFO  BaseTestPortal - chaeck the news and renk also
+2026-04-09 12:30:39 INFO  BaseTestPortal - successfully login
+2026-04-09 12:30:39 INFO  BaseTestPortal - ===== Starting OTP Verification =====
+2026-04-09 12:30:39 INFO  BaseTestPortal - Waiting for verify button
+2026-04-09 12:30:58 INFO  BaseTestPortal - Clicking verify button
